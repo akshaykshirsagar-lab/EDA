@@ -1,0 +1,67 @@
+﻿===============EDA Steps=======================
+Step-1: Read the data
+Step-2: Data quick checks
+        a) dtypes columns shape size  info
+Step-3: Convert categorical columns
+        Numerical columns names separately
+Step-4: You need fill the missing values
+Step-5: Categorical data analysis
+        Unique
+        nunique
+        value counts
+        bar chart
+        count plot
+        pie chart
+Step-6: Numerical data analysis
+        Describe function
+        Histogram
+        Data skew ness
+Step-7: Box plot creation
+        Outlier analysis
+
+
+Step-8: Transformation methods
+
+
+Step-9: Encoding methods
+        map
+        np.where
+        LabelEncoder
+        onehot encoder
+Step-10: Scaling methods
+         Z
+         minmax scalar
+
+
+Sir there are different Data Transformation Techniques like reciprocal, power, log so which one to use when ?
+
+
+
+
+1) Analytics Vidhya
+    Hackathons
+    They have some datasets
+    ML
+    DL
+    NLP
+    you need to upload the solution in their 
+    website ==== Rank 
+
+
+    Loan prediction data
+    EDA 
+    ML  
+
+
+2) Kaggle
+
+
+============================================
+columns === features === variables 
+columns are two types
+Input columns       output columns
+Independent          Dependent
+                     Target column
+===========================================
+Rows === Fields === instances === tuples
+Values
